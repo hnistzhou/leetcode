@@ -1,0 +1,17 @@
+/classes
+/lib
+deploy/lib
+deploy/logs
+*.jar
+.DS_Store
+deploy/classes
+*.zip
+*.tar.gz
+*.iml
+target
+/.project/
+.idea
+*.log
+.classpath
+.settings
+.project
